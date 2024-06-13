@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rt4716/my-electron-app.git"
+  },
+  "author": "Ryuichi Takashima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rt4716/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/rt4716/my-electron-app#readme"
+}
